@@ -9,4 +9,6 @@ Feel free to use my script to create your own 100 (or more) year calendar and le
 
 ## the original
 
-![my-100-yr-calendar](https://raw.githubusercontent.com/leoneckert/100-year-calendar/master/1993-1093_jpg.jpg)
+![the-original](https://raw.githubusercontent.com/leoneckert/100-year-calendar/master/original_1.JPG)
+
+![the-original](https://raw.githubusercontent.com/leoneckert/100-year-calendar/master/original_2.JPG)
