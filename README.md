@@ -2,6 +2,15 @@
 
 I went to DIA:Beacon a few weeks ago and loved the 100-year calendar by On Kawara that's on display there. Some photos are below. I believe he coloured each day of his life in yellow (though the yellow circles do not reach as long as he lived) visualising the unique moment in time each day constitutes. I imagined it would be nice to print such a calendar myself, colouring different phases of my life with different colours (primary school, secondary school, university etc.) to see them in relation to each other.<br>
 Feel free to use my script to create your own 100 (or more) year calendar and let me know if you need any help.
+<br>
+run this way:
+    
+    $python multi_year_calendar.py 1990 100
+                                    ^    ^ 
+                                    |    | 
+                  [year to start from]  [number of years to be included in the calendar]
+	
+
 
 ## my version
 
