@@ -187,7 +187,7 @@ def getDaysData():
 					dividing_line += c
 					decade_divider += c
 
-		if str(year)[-1] is "1":
+		if str(year)[-1] is "0":
 			writer.write(decade_divider)
 			writer.write("\n")
 			writer.write(decade_divider)
