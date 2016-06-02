@@ -7,11 +7,6 @@ import sys
 
 days = ["su", "mo", "tu", "we", "th", "fr", "sa"]
 months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
-# startYear = 1990
-# year_interval = 100
-# endYear = startYear + year_interval 
-
-
 
 def getDaysData(startYear, endYear):
 	writer = open(str(startYear) + "_to_" + str(endYear-1) + ".txt", "w")
