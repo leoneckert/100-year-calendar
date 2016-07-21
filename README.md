@@ -18,6 +18,6 @@ run this way:
 
 ## the original
 
-![the-original](https://raw.githubusercontent.com/leoneckert/100-year-calendar/master/original_1.JPG)
+![the-original1](https://raw.githubusercontent.com/leoneckert/100-year-calendar/master/original_1.JPG)
 
 ![the-original2](https://raw.githubusercontent.com/leoneckert/100-year-calendar/master/original_2.JPG)
